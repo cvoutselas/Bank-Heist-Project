@@ -1,14 +1,14 @@
 # Bank-Heist-Project
 Given 24 hours, I created an algorithm to try to rob as many banks as possible for the most amount of money and return to the getaway point in time. 
 
-Description
+# Description
 Given list of bank locations, how much money each one holds and the time it would take to rob each one, you need to apply your hard-won algorithm knowledge to make as much profit as possible! I bet you didn't think that data science could be this profitable!
 
 You will design and write a solution to an NP-Had algorithm to this problem
 
 You will need to apply all the knowledge learned up to now to get the best possible result at this task given a large list of banks and 3 minutes to run your algorithm.
 
-Rules
+# Rules
 Your run can start anywhere on the map but it has to end at the helicopter escape zone: coordinates (0,0)
 
 If you try to rob too many banks and can't get to the helicopter in 24 hours, you get caught and go to jail. Your solution is a list or array of integers (eg. [580, 433, 24, 998]) where the numbers are the IDs of each banks. The ID of each bank is their index (their row index).
